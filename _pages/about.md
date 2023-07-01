@@ -18,6 +18,11 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a PhD student in Biostatistics. I am working with Dr. Lyndia Brumback as a research assistant at the Collaborative Health Studies Coordinating Center.
+
+Prior to coming to UW,  I obtained my masters degree in Statistical Computing from the University of Central Florida. I hold a BSc. in Mathematics with Statistics from the University of Ghana and spent some time at Tufts University as an exchange student. I am interested in statistical learning theory, estimation in high dimensional data settings and nonparametric function estimation.
+
+I am originally from Somanya, a small town in the Eastern Region of Ghana. When I am not occupied with school or work, I make time to hang out with friends, listen to music (mostly Afrobeat!), play soccer, dance (I like to think so!), etc.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
