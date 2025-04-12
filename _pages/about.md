@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Biostatistics Ph.D. Student at <a href='https://www.biostat.washington.edu/'>UW</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> Hans Rosling Center for Population Health</p>
+    <p>3980 15th Avenue NE</p>
+    <p>Seattle, WA 98195-1617 United States</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,12 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I'm a 4th year Ph.D. student in biostatistics at the University of Washington, working with Prof. Ali Shojaie, Dr. Aaron hudson and Prof. Yingqi Zhao. My current research are in 
+Welcome to my website! I'm a 4th year Ph.D. student in biostatistics at the University of Washington, working with <a href='https://faculty.washington.edu/ashojaie/'>Prof. Ali Shojaie</a>,  <a href='https://www.fredhutch.org/en/faculty-lab-directory/hudson-aaron.html'>Dr. Aaron hudson</a>   and <a href='https://www.fredhutch.org/en/faculty-lab-directory/zhao-yingqi.html'>Prof. Yingqi Zhao</a>. My current research are in 
 
 1. Methods for non-parameteric inference
 2. Causal inference
 3. Methods for disease early dectection
 4. Data integration
-5. Heterogenuous treatment effect.
+5. Heterogeneous treatment effect
 
 Outside of work, I enjoy dancing and listening to music.
