@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Albert Osom
-    #- name: Date of Birth
-     # value: 14th March 1879
     - name: Languages
       value: English
 
@@ -26,24 +24,24 @@
       description:
         - Statistics and Data Science
         
-     - title: Bachelor of Science
+    - title: Bachelor of Science
       institution: University of Ghana, Legon
       year: 2018
       description:
         - Mathematics with Statistics
       
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: Fred Hutchinson Research Center
-      year: 2023 -
-       - title: Advisors
-          contents:
-            - Yingqi Zhao, PhD.
-      description:
-        - Estimating treatment effect on survival outcomes; combining observational and RCT data from a pragmatic trial.
-        - Biomarker combination rules under practial constraints; disease early detection
+#- title: Experience
+#  type: time_table
+#  contents:
+#    - title: Research Assistant
+#      institution: Fred Hutchinson Research Center
+ #     year: 2023 -
+ #      - title: Advisors
+  #        contents:
+ #           - Yingqi Zhao, PhD.
+ #     description:
+ #       - Estimating treatment effect on survival outcomes; combining observational and RCT data from a pragmatic trial.
+ #       - Biomarker combination rules under practial constraints; disease early detection
        # - title: Description 3.
         #  contents:
         #    - Sub-description 1.
