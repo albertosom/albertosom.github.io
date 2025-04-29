@@ -417,11 +417,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-my-paper-with-prof-zhao-on-methods-for-disease-early-detection-has-been-selected-for-2025-jsm-asa-risk-analysis-section-student-paper-award",
+            },},{id: "news-my-paper-with-prof-zhao-on-methods-for-disease-early-detection-has-been-selected-for-2025-jsm-asa-risk-analysis-section-student-paper-award",
           title: 'My paper with Prof. Zhao on methods for disease early detection has been...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-interning-this-summer-as-a-research-scientist-at-amazon-with-the-modeling-and-optimization-team-exciting",
+          title: 'I will be interning this summer as a research scientist at Amazon with...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
