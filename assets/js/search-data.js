@@ -391,11 +391,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-my-paper-with-prof-zhao-on-methods-for-disease-early-detection-has-been-selected-for-2025-jsm-asa-risk-analysis-section-student-paper-award",
           title: 'My paper with Prof. Zhao on methods for disease early detection has been...',
           description: "",
