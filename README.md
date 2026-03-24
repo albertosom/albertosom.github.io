@@ -1,4 +1,4 @@
-# al-folio
+# Albert Osom's personal website
 
 <div align="center">
 
