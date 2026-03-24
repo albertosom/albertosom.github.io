@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I'm a 4th year Ph.D. student in biostatistics at the University of Washington, working with <a href='https://faculty.washington.edu/ashojaie/'>Prof. Ali Shojaie</a>,  <a href='https://www.fredhutch.org/en/faculty-lab-directory/hudson-aaron.html'>Dr. Aaron Hudson</a>   and <a href='https://www.fredhutch.org/en/faculty-lab-directory/zhao-yingqi.html'>Prof. Yingqi Zhao</a>. My current research are in 
+Welcome to my website! I'm a 5th year Ph.D. student in biostatistics at the University of Washington, working with <a href='https://faculty.washington.edu/ashojaie/'>Prof. Ali Shojaie</a>,  <a href='https://www.fredhutch.org/en/faculty-lab-directory/hudson-aaron.html'>Dr. Aaron Hudson</a>   and <a href='https://www.fredhutch.org/en/faculty-lab-directory/zhao-yingqi.html'>Prof. Yingqi Zhao</a>. My current research focuses on
 
 1. Nonparameteric inference
 2. Causal inference
