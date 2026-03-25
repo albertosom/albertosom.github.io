@@ -1,3 +1,9 @@
 
+---
+layout: post
+date: 2025-04-29 07:59:00-0400
+inline: true
+related_posts: false
+---
 
-2025 Chen Hu Endowed Trainee Award, Fred Hutch Public Health Science Division.
+Honored to be selected as a recipient of the 2025 Chen Hu Endowed Trainee Award from the Fred Hutch Public Health Sciences Division.
