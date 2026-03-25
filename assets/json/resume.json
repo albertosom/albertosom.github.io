@@ -3,7 +3,13 @@
     "name": "Albert Osom",
     "image": "",
     "email": "aosom@uw.edu",
-    "url": "https://albertosom.github.io/"
+    "url": "https://albertosom.github.io/",
+  "location": {
+      "address": "Hans Rosling Center for Population Health",
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
+    }
   },
  
   "education": [
