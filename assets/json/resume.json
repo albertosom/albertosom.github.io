@@ -4,7 +4,8 @@
     "label": " PhD Candidate",
     "image": "",
     "email": "aosom@uw.edu",
-    "url": "https://albertosom.github.io/"}
+    "url": "https://albertosom.github.io/"
+  },
  
   "education": [
     {
@@ -40,4 +41,4 @@
       "endDate": "2017-05"
     }
   ]
-  }
+}
