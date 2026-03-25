@@ -661,6 +661,12 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css"
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
+    typed:
+     integrity:
+      js: "sha256-9eItYkU5SMkORinstallations/typed.js@2.0.12"
+     url:
+      js: "https://cdn.jsdelivr.net/npm/typed.js@{{version}}/dist/typed.umd.js"
+     version: "2.0.12"
 
 # -----------------------------------------------------------------------------
 # Get external JSON data
