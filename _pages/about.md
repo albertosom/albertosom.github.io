@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p> Hans Rosling Center for Population Health</p>
-    <p>3980 15th Avenue NE</p>
-    <p>Seattle, WA 98195-1617 United States</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
