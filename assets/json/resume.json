@@ -4,8 +4,7 @@
     "label": " PhD Candidate",
     "image": "",
     "email": "aosom@uw.edu",
-    "phone": "(912) 123-4567",
-    "url": "https://albertosom.github.io/",
+    "url": "https://albertosom.github.io/"}
  
   "education": [
     {
@@ -41,3 +40,4 @@
       "endDate": "2017-05"
     }
   ]
+  }
