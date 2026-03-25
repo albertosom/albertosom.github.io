@@ -27,12 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I'm a 5th year Ph.D. student in biostatistics at the University of Washington, working with <a href='https://faculty.washington.edu/ashojaie/'>Prof. Ali Shojaie</a>,  <a href='https://www.fredhutch.org/en/faculty-lab-directory/hudson-aaron.html'>Dr. Aaron Hudson</a>   and <a href='https://www.fredhutch.org/en/faculty-lab-directory/zhao-yingqi.html'>Prof. Yingqi Zhao</a>. My current research focuses on
+Welcome to my website! I'm a 5th year Ph.D. student in biostatistics at the University of Washington, working with <a href='https://faculty.washington.edu/ashojaie/'>Prof. Ali Shojaie</a>,  <a href='https://www.fredhutch.org/en/faculty-lab-directory/hudson-aaron.html'>Dr. Aaron Hudson</a>   and <a href='https://www.fredhutch.org/en/faculty-lab-directory/zhao-yingqi.html'>Prof. Yingqi Zhao</a>. I develop statistical methods to address problems relating to individualized treatment recommendations, treatment effect heterogeneity, and practical screening rules for early disease detection.
 
-1. Nonparameteric inference
-2. Causal inference
-3. Methods for disease early dectection
-4. Data integration
-5. Heterogeneous treatment effect
 
 Outside of work, I enjoy dancing and listening to music.
